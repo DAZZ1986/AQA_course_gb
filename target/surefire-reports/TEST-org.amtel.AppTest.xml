@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.amtel.AppTest" time="0.063" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="D:\CODE\Java\repos\ecp_autotests2\target\test-classes;D:\CODE\Java\repos\ecp_autotests2\target\classes;C:\Users\DAZZ\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\DAZZ\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18\bin"/>
+    <property name="sun.java.command" value="C:\Users\DAZZ\AppData\Local\Temp\surefire9521154934495055558\surefirebooter971445733203529886.jar C:\Users\DAZZ\AppData\Local\Temp\surefire9521154934495055558 2023-01-04T22-51-59_643-jvmRun1 surefire14897639328897435449tmp surefire_07743885929270399661tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\CODE\Java\repos\ecp_autotests2\target\test-classes;D:\CODE\Java\repos\ecp_autotests2\target\classes;C:\Users\DAZZ\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\DAZZ\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\DAZZ"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-03-22"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\CODE\Java\repos\ecp_autotests2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\DAZZ\AppData\Local\Temp\surefire9521154934495055558\surefirebooter971445733203529886.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18+36-2087"/>
+    <property name="user.name" value="DAZZ"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\DAZZ\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DAZZ\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.3.3"/>
+    <property name="java.version" value="18"/>
+    <property name="user.dir" value="D:\CODE\Java\repos\ecp_autotests2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Program Files (x86)\IBM\WebSphere MQ\java\lib;D:\Program Files (x86)\IBM\WebSphere MQ\java\lib64;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\BellSoft\LibericaJDK-17\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program files\Putty\;D:\install\Code\php\PHP\php-7.3.4-nts-Win32-VC15-x64;D:\Program files\Git\cmd;D:\Program files\Composer;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\install\Code\php\soft\PHP\php-7.4.12-nts-Win32-vc15-x64;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;D:\OSpanel_new2\OpenServer\modules\database\MySQL-5.7\bin\mysql.exe;D:\Program Files\HashiCorp\Vagrant\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319\;D:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Mono\bin;D:\masm32\bin;C:\Program Files (x86)\dotnet\;C:\Program Files\Java\jdk-18\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files (x86)\WinSCP\;D:\Program Files (x86)\IBM\WebSphere MQ\bin64;D:\Program Files (x86)\IBM\WebSphere MQ\bin;D:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin;C:\Program Files\apache-maven-3.8.7\bin;D:\Program files\Ruby26-x64\bin;C:\Users\DAZZ\AppData\Local\Microsoft\WindowsApps;D:\Program files\PhpStorm 2019.2.3\bin;C:\Users\DAZZ\AppData\Roaming\Composer\vendor\bin;C:\Users\DAZZ\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;C:\Users\DAZZ\AppData\Local\Microsoft\WindowsApps;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin;D:\Program Files (x86)\Brackets\;D:\Program files\VSCode\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18+36-2087"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.amtel.AppTest" time="0.007"/>
+  <testcase name="shouldAnswerWithTrue2" classname="org.amtel.AppTest" time="0"/>
+</testsuite>

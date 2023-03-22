@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.amtel.lesson4.FunctionsTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.404 s - in org.amtel.lesson4.FunctionsTest
